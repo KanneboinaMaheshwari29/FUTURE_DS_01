@@ -1,5 +1,15 @@
 # Business Sales Performance Analytics
 
+## Project Summary
+
+This project analyzes Superstore sales data to identify:
+- Revenue trends
+- Top-performing products
+- Category performance
+- Regional sales performance
+
+The analysis was performed using Python, Pandas, Matplotlib, and Jupyter Notebook.
+
 ## Objective
 Analyze business sales data to identify revenue trends, top-selling products, category performance, and regional sales performance.
 
