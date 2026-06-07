@@ -48,9 +48,16 @@ Canon imageCLASS 2200 Advanced Copier ($61,599.82)
 - Replicate successful strategies from the West region.
 
 ## Visualizations
-- Regional Sales Performance
-- Category Sales Analysis
-- Monthly Sales Trend
+
+### Regional Sales Performance
+![Regional Sales](images/regional_sales.png)
+
+### Category Sales Analysis
+![Category Sales](images/category_sales.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](images/monthly_sales_trend.png)
+
 
 ## Conclusion
 
